@@ -19,7 +19,7 @@ Cloud-Agnostic: Supports Azure, AWS, and GCP using Spark, Dataflow, or ETL tools
 - FastAPI
 - Speech Recognition / ML model
 - Use Azure, GCP, or AWS for architecture
-- Built for Kubernetes
+- Built for Kubernetes and docker
 
 ### How to Run
 1. Install dependencies, use container, or veiw requirements.txt file. 
